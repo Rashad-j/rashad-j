@@ -16,10 +16,10 @@
 - ### ✨ My Github Stats
 <p align="left"> <a href="https://git.io/streak-stats"><img alt="Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=rashad-j&theme=onedark&hide_border=true" /></a> </p>
 
-- ### 🔭 Currently open to work in Germany
+<!-- - ### 🔭 Currently open to work in Germany -->
 - ### 🌱 I’m currently learning Go, AWS, Nodejs
 - ### 👯 Looking to collaborate on React, Python, JavaScript
-- ### 📫 How to reach me: <a href="mailto:rashad.jamara@gmail.com"><b>email me</b></a>
+<!-- - ### 📫 How to reach me: <a href="mailto:rashad.jamara@gmail.com"><b>email me</b></a> -->
 - ### 😄 Pronouns: He/Him
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashad-j" alt="rashadjamara" /> </p>
