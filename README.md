@@ -18,7 +18,7 @@
 
 <!-- - ### 🔭 Currently open to work in Germany -->
 - ### 🌱 I’m currently learning Go, AWS, Nodejs
-- ### 👯 Looking to collaborate on React, Python, JavaScript
+<!-- - ### 👯 Looking to collaborate on React, Python, JavaScript -->
 <!-- - ### 📫 How to reach me: <a href="mailto:rashad.jamara@gmail.com"><b>email me</b></a> -->
 - ### 😄 Pronouns: He/Him
 
